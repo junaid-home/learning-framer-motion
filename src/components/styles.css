@@ -1,0 +1,19 @@
+.box {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    background-color: orangered;
+    color: white;
+    border-radius: 10px;
+    
+}
+
+.text {
+    font-size: 60px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
