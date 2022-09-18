@@ -33,7 +33,7 @@ function Comp() {
     <>
       <Modal open={toggle} onClose={() => setToggle((p) => !p)}>
         <div className="box container m2">
-          <text className="text">J.J</text>
+          <p className="text">J.J</p>
         </div>
       </Modal>
 
