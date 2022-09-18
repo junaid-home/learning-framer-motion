@@ -1,6 +1,6 @@
 import * as React from "react";
 
-import Comp from "./06";
+import Comp from "./07";
 
 const App = () => <Comp />;
 
